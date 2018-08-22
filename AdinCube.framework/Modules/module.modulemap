@@ -1,0 +1,6 @@
+framework module AdinCube {
+  umbrella header "AdinCube.h"
+
+  export *
+  module * { export * }
+}
